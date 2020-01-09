@@ -253,10 +253,10 @@ Para k en el rango (0, n-1):
 # Buscar fila que contiene un elemento con el tamaño relativo más grande
 p = argmax (abs (a [k: n, k]) / s [k: n]) + k
 # Si este elemento es muy pequeño, la matriz es singular
-'''
+```
 import numpy as np
 import swap
- import error
+``` import error
 
 def gaussPivot(a,b,tol=1.0e-12): 
     n = len(b)
@@ -266,7 +266,7 @@ for i in range(n):
 s[i] = max(np.abs(a[i,:]))
 
 for k in range(0,n-1):
-'''
+
 
 '''
 # Row interchange, if needed
