@@ -33,4 +33,3 @@ Tambien se puede modificar
 La matriz es
 
 ![WhatsApp Image 2020-01-08 at 9 45 25 PM](https://user-images.githubusercontent.com/52551072/72037327-56f0e380-3263-11ea-88d4-ad96ff9a239a.jpeg)
-
