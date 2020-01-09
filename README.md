@@ -251,7 +251,7 @@ p = argmax (abs (a [k: n, k]) / s [k: n]) + k
 ```
 import numpy as np
 import swap
-``` import error
+import error
 
 def gaussPivot(a,b,tol=1.0e-12): 
     n = len(b)
@@ -261,9 +261,6 @@ for i in range(n):
 s[i] = max(np.abs(a[i,:]))
 
 for k in range(0,n-1):
-
-
-'''
 # Row interchange, if needed
    p = np.argmax(np.abs(a[k:n,k])/s[k:n]) + k 
    if abs(a[p,k]) < tol: error.err(’Matrix is singular’) 
@@ -285,7 +282,7 @@ b[n-1] = b[n-1]/a[n-1,n-1]
 for k in range(n-2,-1,-1): b[k] = 
      (b[k] - np.dot(a[k,k+1:n],b[k+1:n]))/a[k,k]
  return b
-'''
+```
 
 
 El algoritmo de eliminación de Gauss se puede cambiar a la descomposición de Doolittle con pequeños cambios. El más importante de estos cambios es mantener un registro de los intercambios de filas durante la fase de descomposición. En LUdecomp, este registro se mantiene en la matriz seq. Inicialmente, seq contiene [0, 1, 2, ...]. Siempre que se intercambian dos filas, el intercambio correspondiente también se realiza en seq. Por lo tanto, seq muestra el orden en que se han reorganizado las filas originales. Esta información se pasa a la fase de solución (LUsolve), que reorganiza los elementos del vector constante en el mismo orden antes de proceder a las sustituciones hacia adelante y hacia atrás.
