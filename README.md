@@ -184,3 +184,11 @@ Eliminación de Gauss con pivote de fila escalado
 ![Captura 28](https://user-images.githubusercontent.com/52551072/72041376-fff20b00-3270-11ea-814e-a89056066096.jpeg)
 
 
+
+**Objetivo de la materia:**
+
+La asignatura de métodos numéricos aporta al perfil del ingeniero mecatrónico la capacidad de aplicar herramientas matemáticas, computacionales y métodos experimentales en la solución de problemas para formular modelos, analizar procesos y elaborar prototipos.
+  La asignatura requiere que el alumno haya cursado cálculo diferencial y cálculo integral, así como Programación Básica.
+
+
+
