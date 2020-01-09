@@ -20,16 +20,24 @@ Algunos ejemplos de matrices:
 
 Ejercicio 2:
 
-![WhatsApp Image 2020-01-08 at 9 43 56 PM](https://user-images.githubusercontent.com/52551072/72037229-ffeb0e80-3262-11ea-923b-774069910425.jpeg)
+![WhatsApp Image 2020-01-08 at 9 43 56 PM](https://user-images.githubusercontent.com/52551072/72037464-ebf3dc80-3263-11ea-9a8b-6b60a1d7272c.jpeg)
 
 
-![WhatsApp Image 2020-01-08 at 9 44 08 PM](https://user-images.githubusercontent.com/52551072/72037252-12654800-3263-11ea-9fb7-e51271d9961f.jpeg)
+![WhatsApp Image 2020-01-08 at 9 44 08 PM](https://user-images.githubusercontent.com/52551072/72037471-f1e9bd80-3263-11ea-9f4b-cb6824ba486e.jpeg)
+
+![WhatsApp Image 2020-01-08 at 9 44 19 PM](https://user-images.githubusercontent.com/52551072/72037479-fc0bbc00-3263-11ea-8a87-c665f63d8fe5.jpeg)
+
 
 Tambien se puede modificar
 
-![WhatsApp Image 2020-01-08 at 9 44 19 PM](https://user-images.githubusercontent.com/52551072/72037279-2c068f80-3263-11ea-9131-843e975463d1.jpeg)
+
+![WhatsApp Image 2020-01-08 at 9 45 25 PM](https://user-images.githubusercontent.com/52551072/72037487-0332ca00-3264-11ea-9a24-8092b377efd6.jpeg)
 
 
 La matriz es
 
-![WhatsApp Image 2020-01-08 at 9 45 25 PM](https://user-images.githubusercontent.com/52551072/72037327-56f0e380-3263-11ea-88d4-ad96ff9a239a.jpeg)
+
+![WhatsApp Image 2020-01-08 at 9 55 31 PM (1)](https://user-images.githubusercontent.com/52551072/72037493-0928ab00-3264-11ea-916a-7c57342c3506.jpeg)
+
+
+
